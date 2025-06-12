@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: book-service
-        image: docker.io/khangeshmatte123/book-service:80
+        image: docker.io/khangeshmatte123/book-service:84
         ports:
         - containerPort: 5000
