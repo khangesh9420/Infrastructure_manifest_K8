@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: user-service
-        image: docker.io/khangeshmatte123/user-service:76
+        image: docker.io/khangeshmatte123/user-service:77
         ports:
         - containerPort: 5001
